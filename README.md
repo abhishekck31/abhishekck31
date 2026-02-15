@@ -9,7 +9,6 @@
 ## 🚀 Proof of Work
 
 Explore my best projects and builds here 👉  
-🔗 (Add your Notion / Portfolio link here)
 
 ---
 
