@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20C%20K&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descSize=18&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -25,7 +25,7 @@
 
 ```typescript
 const abhishek = {
-  name: "Abhishek C K",
+  name: "Abhishek",
   role: "Full-Stack Developer",
   currently: "SDE Intern @ Taranova Solutions",
   pastExperience: ["Unacademy", "Refurbo"],
