@@ -19,7 +19,7 @@ Building APIs, async pipelines, and SaaS products — one clean commit at a time
 
 I'm a backend-leaning full-stack developer who enjoys turning messy real-world workflows into clean, reliable systems. My recent work sits at the intersection of **APIs, job scheduling, and LLM-assisted automation** — with a soft spot for GST/finance tooling and premium, editorial-style product design.
 
-Previously interned at **Taranova**, **Refurbo**, and **Unacademy**. Currently sharpening algorithms and systems fundamentals for campus placements, and preparing a GSoC 2027 contribution to **CCExtractor**.
+Previously interned at **Taranova**, **Refurbo**, and **Unacademy**.
 
 <br/>
 
@@ -27,11 +27,7 @@ Previously interned at **Taranova**, **Refurbo**, and **Unacademy**. Currently s
 
 | Project | Description |
 |---|---|
-| **[ApnaCA](https://github.com/abhishekck31)** | GST compliance & Tally automation SaaS — designed the invoice-to-Tally pipeline, built Pydantic-based validation layers, LLM field mapping, and async job orchestration. |
-| **Pipwise** | A trading journal SaaS built solo end-to-end — branding, logo, and a premium editorial landing page, built as a portfolio centerpiece. |
-| **nextlimiter** | Published npm package. |
-| **CrisisIQ** | Hackathon-built disaster response app with a dark command-center UI and Claude API integration. |
-| **MedAssist** | Voice-first healthcare AI assistant — intent detection + local LLM inference for clinical queries. |
+| **[nextlimiter](https://www.npmjs.com/package/nextlimiter)** | Published npm package. |
 
 <br/>
 
@@ -57,15 +53,6 @@ Previously interned at **Taranova**, **Refurbo**, and **Unacademy**. Currently s
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
 
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishekck31&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=111111&icon_color=111111&text_color=333333" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekck31&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333" />
 </div>
 
 <br/>
