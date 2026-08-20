@@ -8,7 +8,7 @@ Building APIs, async pipelines, and SaaS products — one clean commit at a time
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abhishekk.online-111111?style=flat-square)](https://www.abhishekk.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishekck-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekck)
-[![Email](https://img.shields.io/badge/Email-abhishekkannur31%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekkannur31@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abhishek.ck3110%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishek.ck3110@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-aabhishek31-111111?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/aabhishek31)
 
 </div>
