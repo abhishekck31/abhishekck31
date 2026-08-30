@@ -56,7 +56,3 @@ Previously interned at **Taranova**, **Refurbo**, and **Unacademy**.
 </div>
 
 <br/>
-
-<div align="center">
-  <sub>Open to backend/full-stack internships and collaboration.</sub>
-</div>
